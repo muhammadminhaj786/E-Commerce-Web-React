@@ -13,6 +13,8 @@ const NavBar = ({logoSrc}) => {
           <li className='text-[red]'>About</li>
           <li className='text-[red]'>Contact Us</li>
           <li className='text-[red]'>Add Cart</li>
+          <li className='text-[red]'>Products</li>
+
         </ul>
       </div>
     </div>
